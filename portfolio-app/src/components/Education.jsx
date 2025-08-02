@@ -10,7 +10,7 @@ const Education = () => {
       institution: 'Pimpri Chinchwad University',
       location: 'Pune, Maharashtra',
       period: '2023 - 2027',
-      grade: 'CGPA: 6.9/10',
+      grade: null,
       description: 'Specialized in backend development, data structures and algorithms. Developed strong programming skills in C, C++, Python, and Java. Completed projects in web development, database management.',
       courses: ['Data Structures & Algorithms', 'Database Management', 'Software Engineering', 'Computer Networks', 'Operating Systems']
     },
