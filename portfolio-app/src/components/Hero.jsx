@@ -57,9 +57,9 @@ const Hero = () => {
           </div>
 
           <p className="text-xl md:text-2xl text-slate-600 dark:text-slate-400 mb-12 max-w-4xl mx-auto">
-            Building <span className="font-semibold text-slate-900 dark:text-white">reliable, scalable</span> backend systems and APIs
+            Passionate <span className="font-semibold text-slate-900 dark:text-white">Backend Engineer</span> | Creating Seamless Digital Experiences Through Clean Code & Innovative Architecture
             <br />
-            <span className="text-slate-500 dark:text-slate-500">B.Tech Computer Science, Pimpri Chinchwad University</span>
+            
           </p>
 
           {/* Tech Stack */}
