@@ -23,7 +23,7 @@ const Projects = () => {
     {
       title: "Tic Tac Toe Game",
       description: "The TicTacToe game uses Java Swing with JFrame, JButton, and ActionListener to create a 3x3 clickable grid. It features gradient background, and game logic methods for win detection, making it a digital version of classic Tic-Tac-Toe.",
-      tech: ["Python", "Pandas", "AWS", "Docker"],
+      tech: ["Java", "Swing", "Java GUI"],
       github: "https://github.com/yourusername/data-pipeline",
       live: null // No live demo for this desktop app
     }
