@@ -45,7 +45,7 @@ const About = () => {
               <p>
                 I am <strong className="text-slate-900 dark:text-white">Chinmay Chaudhari</strong>, a
                 Computer Science student at Pimpri Chinchwad University. With expertise in C, C++, Python
-                and Java I craft robust backend solutions.
+                and Java. I craft robust backend solutions.
               </p>
               <p>
                 My journey is driven by a passion for building <em>scalable, efficient systems</em> that power
@@ -61,7 +61,7 @@ const About = () => {
             <div className="grid grid-cols-3 gap-6 mb-8">
               {[
                 { number: "4+", label: "Languages" },
-                { number: "5+", label: "Projects" },
+                { number: "4+", label: "Projects" },
                 { number: "3+", label: "Years Learning" }
               ].map((stat) => (
                 <div key={stat.label} className="text-center p-4 bg-slate-50 dark:bg-slate-700/50 rounded-lg">
