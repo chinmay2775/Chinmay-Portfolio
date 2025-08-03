@@ -19,7 +19,7 @@ const Education = () => {
       field: 'Science (PCM)',
       institution: 'R.C Patel Junior College',
       location: 'Shirpur, Maharashtra',
-      period: '2019 - 2021',
+      period: '2021 - 2023',
       grade: '85.50%',
       description: 'Focused on Mathematics, Physics, and Chemistry. Developed strong analytical and problem-solving skills.',
       courses: ['Mathematics', 'Physics', 'Chemistry', 'English', 'HTML']
@@ -29,7 +29,7 @@ const Education = () => {
       field: 'General Studies',
       institution: 'R.C Patel English Medium Secondary School',
       location: 'Shirpur, Maharashtra',
-      period: '2021 - 2023',
+      period: '2021',
       grade: '80.50%',
       description: 'Strong foundation in core subjects with excellent performance in Mathematics.',
       courses: ['Mathematics', 'Science', 'English', 'Hindi', 'Social Studies']
