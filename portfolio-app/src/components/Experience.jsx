@@ -7,7 +7,7 @@ const Experience = () => {
     {
       role: 'Java Developer Intern',
       company: 'Pinnacle Labs',
-      period: 'July 2025 - August 2025',
+      period: 'July 2025 - Present',
       description: 'Developed a Project using Java Swing and GUI Framework. Created a Currency Converter desktop application with a user-friendly interface, dropdown menus for currency selection, and real-time conversion functionality.',
       tech: ['Java']
     }
