@@ -8,7 +8,7 @@ const Projects = () => {
     {
       title: "Skill Based Study Buddy",
       description: "A Skill-Based Learning Platform designed to help students and professionals enhance their skills through a structured and interactive learning experience. This project features a modern UI, seamless navigation, and engaging animations to create a unique and immersive learning environment.",
-      tech: ["Python", "CSS", "JavaScript", "HTML","MongoDB"],
+      tech: ["Python", "CSS", "JavaScript", "HTML","Flask"],
       github: "https://github.com/chinmay2775/Skill-Based-Study-Buddy",
       live: null // No live demo for this project
       
