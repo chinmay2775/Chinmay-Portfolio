@@ -9,10 +9,10 @@ const Education = () => {
       field: 'Computer Science and Engineering',
       institution: 'Pimpri Chinchwad University',
       location: 'Pune, Maharashtra',
-      period: '2023 - 2027',
+      period: '2023 - Present',
       grade: null,
-      description: 'Specialized in backend development, data structures and algorithms. Developed strong programming skills in C, C++, Python, and Java. Completed projects in web development, database management.',
-      courses: ['Data Structures & Algorithms', 'Database Management', 'Software Engineering', 'Computer Networks', 'Operating Systems']
+      description: 'Specialized in backend development, Data Structures and Algorithms. Developed strong programming skills in C, C++, Python, SQL and Java. Completed projects in web development, Database Management.',
+      courses: ['Data Structures & Algorithms', 'Database Management', 'Computer Networks', 'Operating Systems']
     },
     {
       degree: 'Higher Secondary Certificate (HSC)',
