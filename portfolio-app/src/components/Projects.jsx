@@ -26,14 +26,14 @@ const Projects = () => {
       tech: ["Java", "Swing", "Java GUI"],
       github: "https://github.com/yourusername/data-pipeline",
       live: null // No live demo for this desktop app
+    },
+    {
+      title: "MORE to SHOP",
+      description: "E-Commerce Web Application:A full-stack e-commerce platform built with Java and Spring Boot. This project demonstrates core online retail functionalities powered by a robust RESTful API.",
+      tech: ["Java", "Spring Boot","Spring MVC","Spring Data JPA","Hibernate","PostgreSQL", "React"],
+      github: "https://github.com/chinmay2775/More-to-Shop/tree/main",
+      live: null //"https://student-mgmt-demo.vercel.app"
     }
-    // {
-    //   title: "Student Management System",
-    //   description: "Comprehensive web application for managing student records, grades, attendance, and academic progress with role-based access control.",
-    //   tech: ["Java", "Spring Boot", "MySQL", "Thymeleaf"],
-    //   github: "https://github.com/yourusername/student-management",
-    //   live: "https://student-mgmt-demo.vercel.app"
-    // },
     // {
     //   title: "Task Tracker API",
     //   description: "RESTful API for task management with user authentication, task categorization, deadline notifications, and progress tracking.",

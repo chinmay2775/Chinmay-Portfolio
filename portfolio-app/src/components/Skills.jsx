@@ -12,7 +12,7 @@ const Skills = () => {
     { 
       category: "Backend", 
       icon: "⚙️",
-      items: ["Django", "Spring Boot"]
+      items: ["Django", "Spring Boot", "Fast API"]
     },
     { 
       category: "Database", 
