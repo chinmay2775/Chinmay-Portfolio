@@ -7,17 +7,17 @@ const Experience = () => {
     {
       role: 'Java Developer Intern',
       company: 'Pinnacle Labs',
-      period: 'July 2025 - Present',
-      description: 'Developed a Project using Java Swing and GUI Framework. Created a Currency Converter desktop application with a user-friendly interface, dropdown menus for currency selection, and real-time conversion functionality.',
+      period: 'July 2025 - August 2025',
+      description: 'Developed a Project using Java Swing and GUI Framework. 1. Created a Currency Converter GUI Application with a user-friendly interface, dropdown menus for currency selection, and real-time conversion functionality. \n 2. Created MORE to SHOP Web Application using Java Spring Boot, Spring Data JPA, Hibernate, PostgreSQL',
       tech: ['Java']
+    },
+    {
+      role: 'Python Development Intern',
+      company: 'ShadowFox',
+      period: 'September 2025 - Present',
+      description: 'This internship gives foundational skills from entry-level positions and get hands-on experience in Python Development. I will work on real-time projects and solve real-world challenges to enhance skills. The internship is structured into a four-week program with increasing project difficulty from beginner to advanced levels',
+      tech: ['Python']
     }
-    // {
-    //   role: 'Software Engineering Intern',
-    //   company: 'Innovatech Solutions',
-    //   period: 'January 2023 - May 2023',
-    //   description: 'Built microservices using Node.js and Express. Collaborated with frontend team to integrate APIs and improved system scalability.',
-    //   tech: ['Node.js', 'Express', 'MongoDB', 'AWS']
-    // },
     // {
     //   role: 'Junior Developer',
     //   company: 'Freelance Projects',
